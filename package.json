@@ -1,0 +1,22 @@
+{
+  "name": "alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eseniyaA/Sunrise-alarm-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eseniyaA/Sunrise-alarm-clock/issues"
+  },
+  "homepage": "https://github.com/eseniyaA/Sunrise-alarm-clock#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
