@@ -1,0 +1,82 @@
+input {
+  display: block;
+  width: 30%;
+  height: calc(2.25rem + 2px);
+  text-align: center;
+  font-family: 'Comic Sans MS';
+  font-size: 1rem;
+} 
+
+body {
+    background-color:#fdf7e7;
+    font-family: 'Comic Sans MS';
+    color:#775601;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    padding-top: 0.5em;
+    color:#5e4301;
+    letter-spacing: 1pt;
+}
+
+p {
+    padding-left: 5em;
+}
+
+table {
+    background-color: #fff8e6;
+    width: 30%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+hr {
+    width: 90%;
+    height: 20px;
+    border: 0;
+    box-shadow: inset 0 15px 20px -11px rgba(0,0,0,0.15);
+}
+
+tr {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #775601;
+    height: 40px;
+}
+
+#time, #delete {
+    background-color: #f8eccc;
+    font-weight: bold;
+}
+
+#delete_img {
+    width: 15px;
+    height: 15px;
+}
+
+button {
+    font-family: 'Comic Sans MS';
+    font-size: 12pt;
+    border-color:#775601;
+    color:#775601;
+    background-color:#f8eccc;
+}
+
+#delete_button {
+    width: 30px;
+    height: 30px;
+}
+
+#new {
+    width: 30%;
+    height: 3em;
+    font-weight: bold;
+}
+
+header {
+    display: block;
+    background: #f8eccc;
+    height: 5em;
+}
